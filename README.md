@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-<p>To preview my portfolio <a href="https://github.com/vishnub123/Portfolio/">Click here</a></p>
+<p>To preview my portfolio <a href="https://vishnub123.github.io/Portfolio/">Click here</a></p>
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
